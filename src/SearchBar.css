@@ -1,0 +1,41 @@
+.searchBar {
+    background-color: rgb(156, 156, 156);
+    
+}
+.searchWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(156, 156, 156);
+    height: 2.75em;
+}
+
+.font {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.filterWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgrey;
+    height: 2.75em;
+}
+
+input {
+    background-color: rgb(255, 255, 198);
+    height: 1.5em;
+}
+
+.search {
+    border-radius: 6.25px;
+    height: 2.125em;
+    border: solid rgb(78, 138, 250) 2px;
+}
+
+.resultsWrapper {
+    display: flex;
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+.briefInfo {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.thumbnail {
+
+}
+
+.info {
+    text-align: center;
+}
